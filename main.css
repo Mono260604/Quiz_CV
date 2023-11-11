@@ -1,0 +1,30 @@
+img{
+    float: right;
+    width: 200px;
+    height: 200px;
+    margin-left: 15px;
+  }
+  .comment {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  .biru{
+    background-color: aliceblue;
+  }
+
+  .navbar-custom{
+    background-color: #22092C;
+  }
+
+  .font-custom{
+    color: #BE3144;
+  }
+  
+  .btn-custom-bg{
+    background-color:#872341 ;
+  }
+
+  .btn-custom-text{
+    color: #F05941;
+  }
